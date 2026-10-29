@@ -50,7 +50,7 @@ Public datasets only. No own data collection.
 |---|---|
 | `AI_Seminar_Meeting2.pptx` / `.pdf` | Supervisor meeting 2: proposal, research, resources, RQs, paper list |
 | `Handwritten Exam Grading – Update 1.pdf` | Update 1: STACK comparison, datasets, approach |
-| `AI_Seminar_Proposal_v2_draft_ideas.pptx` | Earlier proposal draft |
+| `AI_Seminar_Proposal_v2_draft_ideas.pptx` / `.pdf` | Earlier proposal draft |
 | `papers/` | 35 papers. `A_read_closely/` holds the 12 most relevant and `B_skimmed/` the 23 further ones. The index with links is in [`papers/README.md`](papers/README.md) |
 
 Papers are the authors' work (mostly arXiv preprints), collected here for study. Original links are in the index.
