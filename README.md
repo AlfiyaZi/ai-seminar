@@ -20,7 +20,7 @@ This project asks whether an open vision-language model (VLM) can **read** the h
 |---|---|---|
 | Handwritten math | FERMAT, CHECK-MAT, MathWriting, DrawEduMath | Main focus |
 | Fill-the-gaps / short answers | No public handwritten graded set → synthetic handwriting from SciEntsBank / Beetle / SAF | Secondary |
-| Free-text essays | No public handwritten essays with grades (VisEssay not downloadable, BRESSAY has no grades) | Out of scope for now |
+| Free-text essays | No public handwritten essays with grades (VisEssay: no public download; BRESSAY has no grades) | Out of scope for now |
 
 Public datasets only. No own data collection.
 
