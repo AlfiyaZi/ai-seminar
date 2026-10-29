@@ -1,5 +1,7 @@
 # ai-seminar
 
+![Grading handwritten exams with vision-language models](assets/cover.png)
+
 **Grading handwritten exam answers with vision-language models**<br>
 JKU Linz · MSc Artificial Intelligence · Seminar in AI (Institute for Machine Learning), WS 2026/27.<br>
 Planned to continue as Practical Work and Master thesis.
